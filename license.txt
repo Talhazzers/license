@@ -1,1 +1,1 @@
-ekiphost.com
+ekiphost.com,test.com
